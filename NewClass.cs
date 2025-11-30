@@ -11,7 +11,7 @@ namespace ConsoleHome
         public NewClass()
 
         {
-            Console.WriteLine("Команда разработчиков master!");//Изменили название разработчиков Master
+            Console.WriteLine("Команда разработчиков 1!");//Изменили название разработчиков 1
         }
     }
 }

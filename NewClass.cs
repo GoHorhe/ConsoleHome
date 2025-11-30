@@ -11,7 +11,7 @@ namespace ConsoleHome
         public NewClass()
 
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world");//Слияние 30.11.2025
         }
     }
 }

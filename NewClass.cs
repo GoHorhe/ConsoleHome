@@ -11,7 +11,7 @@ namespace ConsoleHome
         public NewClass()
 
         {
-            Console.WriteLine("Команда разработчиков 1!");//Новая ветка 30.11.2025
+            Console.WriteLine("Команда разработчиков master!");//Изменили название разработчиков Master
         }
     }
 }
